@@ -4,7 +4,7 @@ Werkzeug
 numpy
 pandas
 opencv-python
-cmake
+cmake==3.27.4
 argparse
 scipy
 dlib
