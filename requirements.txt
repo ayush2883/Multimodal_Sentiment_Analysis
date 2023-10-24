@@ -7,7 +7,7 @@ opencv-python
 cmake
 argparse
 scipy
-dlib==19.7.0
+dlib
 tensorflow
 imutils
 tika
@@ -19,4 +19,4 @@ scikit-learn
 dill
 keras
 wordcloud
-altair==4.1.0
+altair
