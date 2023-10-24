@@ -4,10 +4,8 @@ Werkzeug
 numpy
 pandas
 opencv-python
-cmake
 argparse
 scipy
-dlib
 tensorflow
 imutils
 tika
