@@ -20,4 +20,3 @@ wordcloud
 altair
 pyaudio
 pdfplumber
-pickle
