@@ -18,5 +18,4 @@ dill
 keras
 wordcloud
 altair
-pyaudio
 pdfplumber
