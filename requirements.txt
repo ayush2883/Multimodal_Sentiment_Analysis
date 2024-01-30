@@ -20,5 +20,3 @@ wordcloud
 altair
 pdfplumber
 dlib
-pyaudio
-pyarrow
